@@ -1,0 +1,13 @@
+name = Commerce EU VAT SI
+description = VAT rates for Slovenia
+core = 7.x
+package = Commerce EU VAT
+dependencies[] = commerce_eu_vat
+dependencies[] = rules
+
+; Information added by Drupal.org packaging script on 2014-08-04
+version = "7.x-2.2"
+core = "7.x"
+project = "commerce_eu_vat"
+datestamp = "1407179342"
+
